@@ -3,8 +3,8 @@
 ## Install
 
 ```bash
-git clone https://github.com/pratikpakhale/selo-npo
-cd selo-npo
+git clone https://github.com/KarusalaDeepak/Hunger-Games-Search---Assignment
+cd Hunger-Games-Search---Assignment
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
