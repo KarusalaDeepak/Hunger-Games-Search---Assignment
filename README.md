@@ -1,4 +1,4 @@
-# SELO + NPO
+# HUNGER GAMES SEARCH
 
 ## Install
 
